@@ -1,2 +1,2 @@
 # discord-status
-A simple Status Code.
+Ein kleiner discord.py Status Code für deinen Bot.
